@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "vitest": "*",
+    "@testing-library/react": "*",
+    "@testing-library/dom": "*",
+    "jsdom": "*"
   },
   "devDependencies": {
     "supertest": "^7.1.1"
